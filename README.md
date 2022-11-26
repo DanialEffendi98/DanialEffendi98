@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanialEffendi98
-- 👀 I’m interested in Mobile Application Development, especially native Android.
-- 🌱 I’m currently learning Javascript through The Odin Project.
+- 👀 I’m interested in Web Application Development.
+- 🌱 I’m currently working as a Software Developer working mostly on the front-end using Grails framework.
 - 💞️ I’m not looking to collaborate on anything yet.
 - 📫 You could reach me through my email, danialeffendi98@gmail.com
 
